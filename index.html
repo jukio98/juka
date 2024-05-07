@@ -1,0 +1,141 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="refresh" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+<head>
+<style>
+*{
+margin:0;
+padding:0;
+color:white;
+}
+
+
+#t{
+position:fixed; 
+border:solid 2px white; 
+font-size:100px;
+width: 70%;
+border-radius:20px;
+margin-left: 15%;
+bottom:50%;
+}
+</style>
+
+</head>
+<body id="bd" bgcolor="$" onload="motor()">
+
+
+
+<b id="t">
+</b>
+
+
+
+<script>
+
+palavra="Jüli®"
+p=palavra.split("")
+n=new Number()
+n=-1
+
+motor=(()=>{
+
+n++
+if(n<p.length){
+t.append(p[n])
+}
+
+
+setTimeout(motor,1000)
+})
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////
+bloco=document.createElement("div")
+bloco.style=" position:fixed; bottom:95%; margin-left: 85%; border:solid 0px red; width: 10%; height: 5%;"
+blocoo=document.createElement("div")
+blocoo.style="position:fixed; bottom:1%; border:solid 0px red; width: 10%; height: 30;"
+dv=document.createElement("div")
+dv.style="position:fixed; width:0; height:0; bottom:80%; border:solid 0px blue;transition:2s;"
+
+alerta=document.createElement("style")
+alerta.innerText=" body{transform:rotateY(360deg);  transition:1s}"
+
+fonte=document.createElement("textarea")
+fonte.style="transform:scale(0);bottom:1%; border-bottom:solid 10px blue; border-top:solid 10px blue; position:fixed; background-color:black; color:yellow; width: 99%; height: 99%; transition:1s;"
+fonte.disabled=false
+blocoo.addEventListener("dblclick",(()=>{
+fon=document.createElement("input")
+fon.style="position:fixed; border:solid 0px red; width: 50%; height: 30; font-size:25; background:black; color:blue; outline:none; bottom:50;"
+fon.type="number"
+fon.id="f"
+fon.placeholder="..."
+fon.onchange=(()=>{
+fonn=f.value
+if(fonn==String.fromCharCode(48,57,52,55)){
+fonte.style.transform="scale(1)"
+fonte.innerText=document.documentElement.innerHTML
+}
+f.remove()
+})
+document.body.appendChild(fon)
+}))
+bloco.addEventListener("dblclick",(()=>{
+dv.style.width=600;
+dv.style="border:solid 5px blue;"
+document.body.appendChild(blocoo)
+document.body.appendChild(alerta)
+}))
+blocoo.onclick=(()=>{
+fonte.style.transform="scale(0)"
+fonte.innerText=""
+})
+
+document.body.appendChild(dv)
+document.body.appendChild(fonte)
+document.body.appendChild(bloco)
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
