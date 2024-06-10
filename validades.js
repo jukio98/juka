@@ -1,41 +1,43 @@
 produtos=[
 {
-dia:"14/06/24",
-ms:06,
+dia:"14/06/2024",
 nome:"BATATA SADIA 300G",
 codigo:"78910203040"
 },
 
 {
-dia:"13/07/24",
-ms:07,
-nome:"BATATA SADIA 300G",
-codigo:"78910203040"
-},
-
-
-{
-dia:"11/06/24",
-ms:06,
+dia:"13/06/2024",
 nome:"BATATA SADIA 300G",
 codigo:"78910203040"
 },
 
 
 {
-dia:"10/06/24",
-ms:06,
+dia:"11/06/2024",
+nome:"BATATA SADIA 300G",
+codigo:"78910203040"
+},
+
+
+{
+dia:"09/06/2024",
 nome:"BATATA SEARA 300G",
 codigo:"78910203040"
 },
 
 
 {
-dia:"11/76/24",
-ms:06,
-nome:"BATATA FRIMESA 300G",
+dia:"02/06/2024",
+nome:"BATATA SEARA 300G",
 codigo:"78910203040"
 },
 
+
+{
+dia:"11/05/2024",
+
+nome:"BATATA FRIMESA 300G",
+codigo:"78910203040"
+},
 
 ]
