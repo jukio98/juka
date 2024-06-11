@@ -1,5 +1,5 @@
 
-com.aviso("JC_Validades", "10/06/2024");
+com.aviso("Validades", "Última Alteração:10/06/2024");
 
 produtos=[
 {
