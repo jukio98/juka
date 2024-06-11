@@ -1,3 +1,6 @@
+
+com.aviso("JC_Validades", "10/06/2024");
+
 produtos=[
 {
 dia:"14/06/2024",
