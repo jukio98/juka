@@ -7,6 +7,29 @@ usuario=[
 
 ]
 
+cad=(()=>{
+wr=log.value;
+
+for(i=0; i<usuario.length; i++){
+if(wr==usuario[i].substring(0,5)){
+tt.innerText=usuario[i].substring(6)
+
+setTimeout(()=>{
+inp.style="margin-left: 0"
+tela.style="margin-left: 0"
+login.style="margin-left: 110%;"
+horas()
+},1000)
+
+}
+
+}
+
+ch.focus()
+
+})
+
+
 produtos=[
 {
 dia:"16/06/2024",
