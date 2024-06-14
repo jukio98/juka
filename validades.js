@@ -1,6 +1,12 @@
 
 com.aviso("Validades", "Última Alteração:10/06/2024");
 
+usuario=[
+"29483_Julio Cesar Rodrigues da Silva Sulino",
+"32161_Pablo Vinícius da Costa",
+
+]
+
 produtos=[
 {
 dia:"16/06/2024",
