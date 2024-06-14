@@ -1,5 +1,5 @@
 
-com.aviso("Estamos Online", "Última Alteração:14/06/2024");
+com.aviso("👀", "Última Alteração:14/06/2024");
 
 usuario=[
 "29483_Julio Cesar Rodrigues da Silva Sulino",
