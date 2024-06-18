@@ -1,8 +1,9 @@
 com.aviso("👀", "Última Alteração:17/06/2024 às 21:26");
 
 usuario=[
-"29483_Julio Cesar Rodrigues da Silva Sulino",
-"32161_Pablo Vinícius da Costa",
+"29483_Julio",
+"32161_Pablo",
+"32608_Stephane"
 
 ]
 
