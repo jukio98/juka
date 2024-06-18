@@ -1,6 +1,6 @@
 ps.style="margin-left: 49%;"
 
-com.aviso("👀", "Última Alteração:14/06/2024");
+com.aviso("👀", "Última Alteração:17/06/2024 às 21:26");
 
 usuario=[
 "29483_Julio Cesar Rodrigues da Silva Sulino",
