@@ -1,44 +1,33 @@
+com.aviso("👀", "Última Alteração:17/06/2024 às 21:26");
 
-produtos=[
-{
-dia:"14/06/24",
-ms:06,
-nome:"BATATA SADIA 300G",
-codigo:"78910203040"
-},
-
-{
-dia:"13/07/24",
-ms:07,
-nome:"BATATA SADIA 300G",
-codigo:"78910203040"
-},
-
-
-{
-dia:"11/06/24",
-ms:06,
-nome:"BATATA SADIA 300G",
-codigo:"78910203040"
-},
-
-
-{
-dia:"10/06/24",
-ms:06,
-nome:"BATATA SEARA 300G",
-codigo:"78910203040"
-},
-
-
-{
-dia:"11/76/24",
-ms:06,
-nome:"BATATA FRIMESA 300G",
-codigo:"78910203040"
-},
+usuario=[
+"29483_Julio Cesar Rodrigues da Silva Sulino",
+"32161_Pablo Vinícius da Costa",
 
 ]
+
+cad=(()=>{
+wr=log.value;
+
+for(i=0; i<usuario.length; i++){
+if(wr==usuario[i].substring(0,5)){
+tt.innerText=usuario[i].substring(6)
+
+setTimeout(()=>{
+inp.style="margin-left: 0"
+tela.style="margin-left: 0"
+login.style="margin-left: 110%;"
+horas()
+ps.style="margin-left: 49%;"
+},1000)
+
+}
+
+}
+
+ch.focus()
+
+})
 
 
 
