@@ -1,3 +1,4 @@
+ps.style="margin-left: 49%;"
 
 com.aviso("👀", "Última Alteração:14/06/2024");
 
