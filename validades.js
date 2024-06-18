@@ -1,4 +1,4 @@
-ps.style="margin-left: 49%;"
+
 
 com.aviso("👀", "Última Alteração:17/06/2024 às 21:26");
 
@@ -20,6 +20,7 @@ inp.style="margin-left: 0"
 tela.style="margin-left: 0"
 login.style="margin-left: 110%;"
 horas()
+ps.style="margin-left: 49%;"
 },1000)
 
 }
