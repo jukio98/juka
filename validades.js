@@ -3,13 +3,13 @@
 
 produtos=[
 {
-dia:"16/06/2024",
+dia:"12/06/2024",
 nome:"BATATA SADIA 300G",
 codigo:"78910203040"
 },
 
 {
-dia:"18/06/2024",
+dia:"23/06/2024",
 nome:"BATATA SADIA 300G",
 codigo:"78910203040"
 },
@@ -52,7 +52,7 @@ codigo:"78910203040"
 
 
 {
-dia:"11/05/2024",
+dia:"25/05/2024",
 
 nome:"BATATA FRIMESA 300G",
 codigo:"78910203040"
