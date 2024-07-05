@@ -1,4 +1,4 @@
-com.aviso("👀", "Última Alteração:21/06/2024 às 03:12");
+com.aviso("👀", "Última Alteração:05/07/2024 às 02:10");
 
 usuario=[
 "29483_Julio",
