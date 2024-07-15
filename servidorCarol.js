@@ -1,1 +1,1 @@
-oi
+com.aviso("Oi Nega!!!","Estamos Online \n Minha Gata"
