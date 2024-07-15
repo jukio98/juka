@@ -1,1 +1,1 @@
-com.aviso("Oi Nega!!!","Estamos Online \n Minha Gata"
+com.aviso("Oi Nega!!!","Estamos Online \n Minha Gata")
