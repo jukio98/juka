@@ -5,3 +5,4 @@ videos_pre.src="///android_asset/img/v1.txt"
 videos_pre.controls=true
 videos.currentTime=1
     })
+v_um()
