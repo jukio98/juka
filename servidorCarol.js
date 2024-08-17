@@ -7,6 +7,6 @@ videos.currentTime=1
     })
 /////v_um()
 
-/////com.info("Oi amor tô com saudades de vc minha princesa, casa comigo????")
+/////com.info("");
 
-////com.dialogo();
+////com.dialogo("");
