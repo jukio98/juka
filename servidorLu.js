@@ -1,1 +1,1 @@
-/////com.dialogo("Oi testando servidor!!!")
+com.dialogo("Oi testando servidor!!!")
