@@ -1,4 +1,5 @@
 /////com.dialogo("Testando Nuevo Julio")
 
-gasolina=new Number()
-gasolina=77
+
+gasolina=78
+tt.append("15/09=15:45")
