@@ -1,4 +1,6 @@
 /////com.dialogo("Testando Nuevo Julio")
+/////com.info("")
+/////com.aviso("","")
 
 
 gasolina=78
