@@ -24,6 +24,17 @@ link:"https://download2391.mediafire.com/1925yaw83jzgqp66bRVE4LGO6m2h8Er_keD-GA1
 },
 
 
+{
+nome:"A Hora do Rush",
+link:"https://download2273.mediafire.com/uxb9istm150g0NsaMRavArASS0TF5-nZMZQ6i6AKVgKuSNPYX6GApkFX-If_8KL1pzh
+"
+},
+
+
+
+
+
+
 
 ]
 
