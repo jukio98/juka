@@ -53,16 +53,13 @@ ch.focus()
 
 
 videos=[
+{
+nome:"Uma Aventura Congelante",
+link:"https://cdn-premium-01.lol/001/41577b8784f8b9c6f5ec0537dcc1d23f.mp4"
+},
 
-"https://drive.google.com/file/d/1JFHPgPHjryV3elztTiqAwVinLYtIevdc/preview",
-"https://drive.google.com/file/d/1JLxYncDGAzxISM7zAHQ6ZF0R6khQvRyI/preview",
-"https://drive.google.com/file/d/1JQkFPoeZKPe7FyFXfijhMujuARCpEPAJ/preview",
-"https://drive.google.com/file/d/1JVQP1ivMF-gLQvQG_4dXfCsJwF4tLbU6/preview",
-"https://drive.google.com/file/d/1JVQP1ivMF-gLQvQG_4dXfCsJwF4tLbU6/preview"
+
 ]
-
-
-
 
 
 
