@@ -20,7 +20,7 @@ link:"https://cdn-premium-01.lol/001/7531acc0613d49cc55c174b43c679f74.mp4"
 
 {
 nome:"Godzilla: Rei dos Monstros",
-link:"https://download2391.mediafire.com/1925yaw83jzgqp66bRVE4LGO6m2h8Er_keD-GA1Ch7yxwpMs3wEs4fMPAYCmT4fHVTezfeAAp973ofzsqw"
+link:"https://download2391.mediafire.com/h58fttnkurigjQJ6PVKaGBfZHaubegJaMCTmZhTvqyw7kNemNn4hTttaGqPTnyda6iO5jWu681U_Fq0BQdyY9SOqXmuNqhjZUYHZmyWaPm2pfy0O40U1GrRgvfiBCruvHsF6V-w6ox4eHMY-L-C5BwGaPNS82QUECwVcPzz9gbZFQco/gfqbdnhu1ewir6z/9a053f8084b1b7d792bfe9c1428ed68b.mp4"
 },
 
 
