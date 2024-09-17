@@ -50,6 +50,10 @@ nome:"Godzilla: Rei dos Monstros",
 link:"https://download2391.mediafire.com/h58fttnkurigjQJ6PVKaGBfZHaubegJaMCTmZhTvqyw7kNemNn4hTttaGqPTnyda6iO5jWu681U_Fq0BQdyY9SOqXmuNqhjZUYHZmyWaPm2pfy0O40U1GrRgvfiBCruvHsF6V-w6ox4eHMY-L-C5BwGaPNS82QUECwVcPzz9gbZFQco/gfqbdnhu1ewir6z/9a053f8084b1b7d792bfe9c1428ed68b.mp4"
 },
 
+{
+nome:"Godzilla vs Kong - o novo império",
+link:"https://download2390.mediafire.com/fdfelf2scoggViv4ZKQbZyqTLtbF5fs0V5xzbIUomG38vH5rFmoeG_an1Oo5M15UP4e2m5oqE-KZrqYxbna3xB-z0qRcoETJtwS1MO6EgdBGHjJquViF_id7nSvvKJwqjy8tdY3ti74N-IMAaOvGaVckAzVACQl_JBkBlqRSFiNYJ3Y/uj7wk3mmo6zzsl2/897c858b55384982b03ca0e5cdf6b3df.mp4"
+},
 
 {
 nome:"A Hora do Rush",
