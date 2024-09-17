@@ -7,6 +7,13 @@ link:"https://cdn-premium-01.lol/001/41577b8784f8b9c6f5ec0537dcc1d23f.mp4"
 nome:"Moana - Um mar de aventuras",
 link:"https://cdn-premium-01.lol/001/226c74751f9dde6741abfe4b619d3853.mp4"
 },
+
+{
+nome:"Meu malvado favorito 4",
+link:"https://download2392.mediafire.com/swuenkmy0v8gA889OaKlNa-ZyXBI8TEUgikaqGhE5BIgDs3QjU2NE9YpCLDahTaPX1wG4PlQDko4CI3P9eKi0PhCrUQEwGiZL-CcdDAeBD-TruuqguY4E9BefKyl8mZY75uoYdEKruKtXcxGwiZVYQhF_dVanO8izmDlbC4CsE_pKn4/j0852da0d6mkckn/4b44cf6a1f163b503b6aba76bc47f824.mp4"
+},
+
+
 {
 nome:"Shazam! Fúria dos Deuses",
 link:"https://download2392.mediafire.com/uz465tb5gk2gIlik2zxL0dg8plhNC1o9hXbcUjjqAyn0gfYnChASI6MG8PjV7R4MBNoYyIP1huzFMasQ5isCbw8gU3EnjMrFFOxJCe5PzaSmiSeAIXi6HEFpOOc9SoDr2W9DNaw6D9e6FOsw48NvUsxaoJgXiNBZpDhcHSJzOMgYeg/k69kkgb5qwki8tt/350a5797726b42f5a274767cbcd00b18.mp4"
