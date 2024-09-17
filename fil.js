@@ -62,6 +62,10 @@ link:"https://download2273.mediafire.com/uxb9istm150g0NsaMRavArASS0TF5-nZMZQ6i6A
 nome:"a hora do Rush 2",
 link:"https://download2389.mediafire.com/fvespd7puthgwkCCvsZ5tE0W4G3HIV5qdEN13aQyF3rVteckWMLu_JI941GQVnSq9IGwS1tQ1378pHZjxppvMM4AEicYv4PL5nF49bos0IS8OHIN0vu5FYCI_qq_VlwXxD5Yfws6d5LZu2f5I5UVnBWpLlQFXwEWkvUgOtAfQjh5fms/vhp17ncmrjnqu17/828e9021e5ab74497bdae9fa61ea89ad.mp4"
 },
+{
+nome:"a hora do Rush 3",
+link:"https://download2260.mediafire.com/r4mmhpiqccgg6-FSSvnXDuJnVGRFbyweRu8k1LR7KX6sgU_H-cwug6Y4e6jDESwoHwyzChfGBJEIsNcLrN-eDTEhkd55Ou-cQ7eSWaxBB9WltHrzsZDoWUY7TtELs_HH4hA1oMCn07LbwEkgvA74vagpLSqOn9K-Dvv_hNlY9iBdCcs/dp5ot4q4syrtb2j/afe79197d701ac13ce1e9a37b3b973f5.mp4"
+},
 
 
 {
