@@ -7,6 +7,14 @@ link:"https://cdn-premium-01.lol/001/41577b8784f8b9c6f5ec0537dcc1d23f.mp4"
 nome:"Moana - Um mar de aventuras",
 link:"https://cdn-premium-01.lol/001/226c74751f9dde6741abfe4b619d3853.mp4"
 },
+
+
+{
+nome:"pantera negra",
+link:"https://download2391.mediafire.com/7sqinl47qw7g0jES-1N5RwWgktGsYDiQ4j5QxIRm0E9R_Msn9usYT7hu_-SiTnk1_qSHtXMjRFB-dvRm_wDcvRed_S3wTnj2hiJTVnsCKRaLuTbYESztEF4ciqcsLm0KDBo4N0lDDFKlscdRYCPMDBdrjw1o5V2t5RzCl6sDn8EylTE/1hl1wddqee4gxr2/efd88a7be576c3f1627c493984373be3.mp4"
+},
+
+
 {
 nome:"Minions- a origem de gru.",
 link:"https://download2390.mediafire.com/olj9uoon4gsghyKQBZx4R3mXtGZdro7nxZTX_MZj2M1cBPihYWA_-1F9eTYFH1ih9ETwbUKJMEaHEr07R7i7KXj2GkAirOt65uvS9B-pzo_GUgA4w9aLQ-iyjWynVyKzINGzZPT7NhpHukDenkm2xbz_RSpY0xpNV7TDP0tEh1skjGE/iyrrihkc6tyyqt7/0a5c69f995be3d7f9a22f94416947d33.mp4"
