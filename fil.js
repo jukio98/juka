@@ -1,5 +1,10 @@
 videos=[
 {
+nome:"########_ANIMAçãO_######",
+link:""
+},
+
+{
 nome:"Uma Aventura Congelante",
 link:"https://cdn-premium-01.lol/001/41577b8784f8b9c6f5ec0537dcc1d23f.mp4"
 },
@@ -11,7 +16,6 @@ link:"https://cdn-premium-01.lol/001/226c74751f9dde6741abfe4b619d3853.mp4"
 nome:"procurando nemo",
 link:"https://download2393.mediafire.com/80glcasd3ykgkrI5fNEj3Y_aWIOpDKbTtqimNUEkBFFJ4GyLP5wuBKVThKHg6H_fpGijStX3_HGWqn85GRafEgcSLLZ9I5uHABFpbPMwRfGcJUHCHuWKBcLzMszuuzEql8nOCiD2ytuFKPvHHr4MkRy5-SzhnFQs4WJMWz9S9WyP5Q/uso68busknhwabk/9ff541be829bd1c7f150ba8963bf0b59.mp4"
 },
-
 
 {
 nome:"Minions- a origem de gru.",
@@ -31,6 +35,11 @@ link:"https://cdn-premium-01.lol/001/3c79532d12bc359e18ce36d33c6c6ad0.mp4"
 nome:"Meu malvado favorito 4",
 link:"https://download2392.mediafire.com/swuenkmy0v8gA889OaKlNa-ZyXBI8TEUgikaqGhE5BIgDs3QjU2NE9YpCLDahTaPX1wG4PlQDko4CI3P9eKi0PhCrUQEwGiZL-CcdDAeBD-TruuqguY4E9BefKyl8mZY75uoYdEKruKtXcxGwiZVYQhF_dVanO8izmDlbC4CsE_pKn4/j0852da0d6mkckn/4b44cf6a1f163b503b6aba76bc47f824.mp4"
 },
+{
+nome:"########_ficção e aventura_######",
+link:""
+},
+
 {
 nome:"Vingadores - guerra infinita",
 link:"https://download2388.mediafire.com/tuf9x6wxrhqg7mRv8FhoQduaQTUpUwh8j-ketTr6CkyXRuSoMR4zF1DdC5_IgEUXaetj4pTN5CYq7y9u5o-mcCI93tg5Lb82HHU4gQXxtkmExHHgwk0OTLReUDghbLZ5Q8f3e3Rjlkf0qn4rx8sMa6YDEtfigukvW8rKT23sjttQzmw/ir163787tkh3o52/f4dc6521d68eab55bbbc4799e410b55d.mp4"
@@ -68,6 +77,12 @@ link:"https://download2391.mediafire.com/7sqinl47qw7g0jES-1N5RwWgktGsYDiQ4j5QxIR
 nome:"Adão negro",
 link:"https://download2367.mediafire.com/3e2ij2ge3wzgcJhHyHBNRiRfpgJpKn5skZRsl1K9DNZ1KoThAt18tFIxDXS7sEtv66G93yiwsi1SiDBILQeYr7l0urDvZoCHKn2wJERS3v_P6JrbxAFIGGaSHhHlEfwGC49dZsjwkL61KiAJ8x_ZAb5xmqiFNYSux4fRgkNYZlN_Z_I/mt47vovgfeqslgm/0b367e647effaa992af4e554bcba958d.mp4"
 },
+
+{
+nome:"########_comédia_######",
+link:""
+},
+
 {
 nome:"A Hora do Rush",
 link:"https://download2273.mediafire.com/uxb9istm150g0NsaMRavArASS0TF5-nZMZQ6i6AKVgKuSNPYX6GApkFX-If_8KL1pzh_b5WK93oUS_LSZGX03ayYwMvla_wrfpfjw_aZkrEOZuLgBaDlRg7oSNe-KIvag7X9SdgeCtVTQ4JwkyBTal_1KnnbhpoXiYkMlenM6N0aJN0/7sqm6kd8mi4a5y9/0d5851733f52b1909ae8096fe152aefe.mp4"
