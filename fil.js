@@ -57,6 +57,10 @@ link:"https://download2391.mediafire.com/7sqinl47qw7g0jES-1N5RwWgktGsYDiQ4j5QxIR
 nome:"A Hora do Rush",
 link:"https://download2273.mediafire.com/uxb9istm150g0NsaMRavArASS0TF5-nZMZQ6i6AKVgKuSNPYX6GApkFX-If_8KL1pzh_b5WK93oUS_LSZGX03ayYwMvla_wrfpfjw_aZkrEOZuLgBaDlRg7oSNe-KIvag7X9SdgeCtVTQ4JwkyBTal_1KnnbhpoXiYkMlenM6N0aJN0/7sqm6kd8mi4a5y9/0d5851733f52b1909ae8096fe152aefe.mp4"
 },
+{
+nome:"Adão negro",
+link:"https://download2367.mediafire.com/3e2ij2ge3wzgcJhHyHBNRiRfpgJpKn5skZRsl1K9DNZ1KoThAt18tFIxDXS7sEtv66G93yiwsi1SiDBILQeYr7l0urDvZoCHKn2wJERS3v_P6JrbxAFIGGaSHhHlEfwGC49dZsjwkL61KiAJ8x_ZAb5xmqiFNYSux4fRgkNYZlN_Z_I/mt47vovgfeqslgm/0b367e647effaa992af4e554bcba958d.mp4"
+},
 
 {
 nome:"a hora do Rush 2",
