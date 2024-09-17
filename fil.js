@@ -8,6 +8,11 @@ nome:"Moana - Um mar de aventuras",
 link:"https://cdn-premium-01.lol/001/226c74751f9dde6741abfe4b619d3853.mp4"
 },
 {
+nome:"Minions- a origem de gru.",
+link:"https://download2390.mediafire.com/olj9uoon4gsghyKQBZx4R3mXtGZdro7nxZTX_MZj2M1cBPihYWA_-1F9eTYFH1ih9ETwbUKJMEaHEr07R7i7KXj2GkAirOt65uvS9B-pzo_GUgA4w9aLQ-iyjWynVyKzINGzZPT7NhpHukDenkm2xbz_RSpY0xpNV7TDP0tEh1skjGE/iyrrihkc6tyyqt7/0a5c69f995be3d7f9a22f94416947d33.mp4"
+},
+
+{
 nome:"Elementos",
 link:"https://cdn-premium-01.lol/001/3c79532d12bc359e18ce36d33c6c6ad0.mp4"
 },
