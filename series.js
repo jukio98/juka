@@ -39,4 +39,10 @@ nome:"Acolyte - t1 - ep5",
 link:"https://cdn-premium-01.lol/001/bfdf13ad2299aa577fbed452fa856717.mp4"
 },
 
+{
+nome:"Acolyte - t1 - ep6",
+link:"https://cdn-premium-01.lol/001/f59d91324f0152bfbf8eedae2502dca7.mp4"
+},
+
+
 ]
