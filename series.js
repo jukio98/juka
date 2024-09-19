@@ -48,5 +48,9 @@ link:"https://cdn-premium-01.lol/001/f59d91324f0152bfbf8eedae2502dca7.mp4"
 nome:"Acolyte - t1 - ep7",
 link:"https://cdn-premium-01.lol/001/2aa031268d98dd878ff8524d6dea8ec9.mp4"
 },
+{
+nome:"Acolyte - t1 - ep8",
+link:"https://cdn-premium-01.lol/001/c50b94daba1b59df2810ff158856c927.mp4"
+},
 
 ]
