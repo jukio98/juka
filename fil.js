@@ -115,8 +115,16 @@ nome:"a hora do Rush 3",
 link:"https://download2260.mediafire.com/r4mmhpiqccgg6-FSSvnXDuJnVGRFbyweRu8k1LR7KX6sgU_H-cwug6Y4e6jDESwoHwyzChfGBJEIsNcLrN-eDTEhkd55Ou-cQ7eSWaxBB9WltHrzsZDoWUY7TtELs_HH4hA1oMCn07LbwEkgvA74vagpLSqOn9K-Dvv_hNlY9iBdCcs/dp5ot4q4syrtb2j/afe79197d701ac13ce1e9a37b3b973f5.mp4"
 },
 
+{
+nome:"########_ação, terror_########",
+link:""
+},
 
 
+{
+nome:"twisters",
+link:"https://download2342.mediafire.com/la9e8p5lgtdg8QuP5RieITH__5twX3YNH0nUHwHC8Hk5jmwOc0bGwvYFaqR5YuHrdWD4euzpTzD2786PFWhANzjbtJQs0jBN5Zs4FBxoc26sUOVEuPNn-MsXeJB9TUf4KKITG6KEihbWAmRG--KCHAMdx_BNYJYW322GE73Q3Zt5KA/jjos8y13xqrevjf/4c26121d8bb8fc748a1f4fc01f30045f.mp4"
+},
 
 
 
