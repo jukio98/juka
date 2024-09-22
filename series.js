@@ -19,7 +19,7 @@ link:"https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/
 
 
 {
-nome:"#######_pacificador_########",
+nome:"#_pacificador_#",
 link:""
 },
 
