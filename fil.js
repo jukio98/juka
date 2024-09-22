@@ -147,6 +147,10 @@ nome:"twisters",
 link:"https://download2342.mediafire.com/la9e8p5lgtdg8QuP5RieITH__5twX3YNH0nUHwHC8Hk5jmwOc0bGwvYFaqR5YuHrdWD4euzpTzD2786PFWhANzjbtJQs0jBN5Zs4FBxoc26sUOVEuPNn-MsXeJB9TUf4KKITG6KEihbWAmRG--KCHAMdx_BNYJYW322GE73Q3Zt5KA/jjos8y13xqrevjf/4c26121d8bb8fc748a1f4fc01f30045f.mp4"
 },
 
+{
+nome:"a culpa é das estrelas",
+link:"https://download2391.mediafire.com/54miymasmtbgZk_AzsTs5K7m4B2o1MB70N4P8yCbWpzVoYld4k4QPesKHBtDSxgai3PtseoBaSMq5eOW5GNEp3MKqsbQnG9d3QtsZw1SQGOWqvmLSJybPXgY2m8PWfjwhhTShEY5RjSrzNAL95qp6UfCuJ0WzcYtHjC--U--vuKk6bk/fmd1ck4d38yimff/d1dc82fd16d85d882d06c3510ca2b99f.mp4"
+},
 
 
 
