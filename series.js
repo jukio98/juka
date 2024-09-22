@@ -4,11 +4,6 @@ nome:"#_tv_#",
 link:""
 },
 {
-nome:"globo",
-link:"https://live-as-08-16.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMTYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzI2ODQ3MTY3LCJpYXQiOjE3MjY3NjA3NjcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzdjYjQ5MWEtY2RmZS00NTY4LWE4YmUtMmQzNGY3MjVkZmEwIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tc2pjL3BsYXlsaXN0Lm0zdTgifQ.O7-3mxfUumCDDLdT9JxB3aJyCcHSHTSv6lpWP1XT_dql_r1DwdBQlbcaoG_YPxEt7Jr8UJrFlZMttozg9iKxoyUtVSJ-6pYUEMRATpwv4LDWtLDt31QE6H6gpDzR_Lxnm_HS4maWwDkDtM45L5Ct8VWopd5WBcSJgPsmzs0_OsL6zVV-ud3NmnxMkWndt6nwLNE3XJi_a49-YgR0D4T9FOBuajYvE8zJWh43T3v-KTEGHzAL5FV1q0JFhCGyKaX07yjg6tL7BHKPUPl7g1RNo1zZv_67guMI2Pp10wGo3yY-ZQLPF4cxx3oEVWS3twanb7aeeRxPo-rd5mzfufpv6g/nu/f(bMin=2000)/globo-sjc/globo-sjc-audio_1=96000-video=952960.m3u8"
-},
-
-{
 nome:"ESPN",
 link:"https://stream.embedflix.co/espn/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI0IDE6MDc6MTAgQU0maGFzaF92YWx1ZT1QWkR4WFRwaU9BV0d2NVp5SklTTFh3PT0mdmFsaWRtaW51dGVzPTE2MA=="
 },
