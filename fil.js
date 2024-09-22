@@ -1,6 +1,6 @@
 videos=[
 {
-nome:"########_ANIMAçãO_######",
+nome:"#_ANIMAçãO_#",
 link:""
 },
 
@@ -70,7 +70,7 @@ nome:"Meu malvado favorito 4",
 link:"https://download2392.mediafire.com/swuenkmy0v8gA889OaKlNa-ZyXBI8TEUgikaqGhE5BIgDs3QjU2NE9YpCLDahTaPX1wG4PlQDko4CI3P9eKi0PhCrUQEwGiZL-CcdDAeBD-TruuqguY4E9BefKyl8mZY75uoYdEKruKtXcxGwiZVYQhF_dVanO8izmDlbC4CsE_pKn4/j0852da0d6mkckn/4b44cf6a1f163b503b6aba76bc47f824.mp4"
 },
 {
-nome:"########_ficção e aventura_######",
+nome:"#_ficção e aventura_#",
 link:""
 },
 
@@ -113,7 +113,7 @@ link:"https://download2367.mediafire.com/3e2ij2ge3wzgcJhHyHBNRiRfpgJpKn5skZRsl1K
 },
 
 {
-nome:"########_comédia_######",
+nome:"#_comédia_#",
 link:""
 },
 
@@ -133,7 +133,7 @@ link:"https://download2260.mediafire.com/r4mmhpiqccgg6-FSSvnXDuJnVGRFbyweRu8k1LR
 },
 
 {
-nome:"########_ação, terror_########",
+nome:"#_ação, terror_#",
 link:""
 },
 
