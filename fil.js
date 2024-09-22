@@ -79,6 +79,10 @@ nome:"Vingadores - guerra infinita",
 link:"https://download2388.mediafire.com/tuf9x6wxrhqg7mRv8FhoQduaQTUpUwh8j-ketTr6CkyXRuSoMR4zF1DdC5_IgEUXaetj4pTN5CYq7y9u5o-mcCI93tg5Lb82HHU4gQXxtkmExHHgwk0OTLReUDghbLZ5Q8f3e3Rjlkf0qn4rx8sMa6YDEtfigukvW8rKT23sjttQzmw/ir163787tkh3o52/f4dc6521d68eab55bbbc4799e410b55d.mp4"
 },
 
+{
+nome:"Homem aranha- de volta pra casa",
+link:"https://download2390.mediafire.com/cdz6697mhydgNNIu99Uk-YJeV96wVzt5eJqaLSyM87J_JFtmajhofCcICaXFTQCL8qKzWAQZh3Jy30EfwHObNpxVF8Ciz34b-CNoHy3XkO34HwhI6US4n2HS7XsN7yRlBf3mJk0sGsLVLIuAi_2zsdVUkQHUXCVs2WY8B9oR1D-gEKw/fjmn129dqzdxm8i/d5200e07f3bf7e9a1b99764ba124aed7.mp4"
+},
 
 {
 nome:"Shazam! Fúria dos Deuses",
