@@ -37,7 +37,7 @@ link:"https://download844.mediafire.com/axq48e5n8b3gzw1brMhhIEagRm0Ua8TFDXUeybkW
 
 
 {
-nome:"########_acolyte_######",
+nome:"#_acolyte_#",
 link:""
 },
 {
