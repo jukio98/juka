@@ -3,5 +3,5 @@
 /////com.aviso("","")
 
 
-gasolina=98
-tt.append("05/10=09:00")
+gasolina=112
+tt.append("05/10=21:00")
