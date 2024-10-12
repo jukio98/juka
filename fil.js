@@ -73,6 +73,10 @@ link:"https://download2392.mediafire.com/swuenkmy0v8gA889OaKlNa-ZyXBI8TEUgikaqGh
 nome:"#_ficção e aventura_#",
 link:""
 },
+{
+nome:"Deadpool e Wolverine",
+link:"https://download2440.mediafire.com/ifgf6i3yc8ogaVraKpeREEedSQqM_UCYH7LLw_B8a7O3-bFKCcB86hGOUEWDVk1m0WN83eBTb9JiAa_1UVbygtKTBiRIxgKirlnf3n4dxLU6bboceYQzIyE0JR52qUmePHBQqEgwFPB04gX_gKKppUEUZLaxiPvytZUi7tOcRCCzM38/r933m1t0ppv63pp/ujXA4rnNrTplBEobuLUyWz6qjYLkck3S.mp4"
+},
 
 {
 nome:"Furiosa",
