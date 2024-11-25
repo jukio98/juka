@@ -73,6 +73,14 @@ link:"https://download2392.mediafire.com/swuenkmy0v8gA889OaKlNa-ZyXBI8TEUgikaqGh
 nome:"#_ficção e aventura_#",
 link:""
 },
+
+{
+nome:"Velozes e Furiosos 8",
+link:"http://i.tubemate.net/api/video.html?v=https://iev.netcine.ac/html/storage.bunnycdn.com/html/content/conteudolb4/filmes2023/VEFURIOSOS82017DUB-BAIXO.mp4?md5=q5-Iv1jsMXagA69H4nEOMg&expires=1732570761"
+},
+
+
+
 {
 nome:"Deadpool e Wolverine",
 link:"https://download2440.mediafire.com/ifgf6i3yc8ogaVraKpeREEedSQqM_UCYH7LLw_B8a7O3-bFKCcB86hGOUEWDVk1m0WN83eBTb9JiAa_1UVbygtKTBiRIxgKirlnf3n4dxLU6bboceYQzIyE0JR52qUmePHBQqEgwFPB04gX_gKKppUEUZLaxiPvytZUi7tOcRCCzM38/r933m1t0ppv63pp/ujXA4rnNrTplBEobuLUyWz6qjYLkck3S.mp4"
