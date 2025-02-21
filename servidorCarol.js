@@ -7,6 +7,6 @@ videos.currentTime=1
     })
 /////v_um()
 
-/////com.info("");
+com.info("CAROL");
 
 com.dialogo("O DONA CAROL, SE VC CHORAR, VOU CONTA PRO JULIO, TO SE ZOIO 👀👀🤪");
