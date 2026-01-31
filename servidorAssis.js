@@ -1,3 +1,3 @@
 ////com.dialogo("Testa servidor Assis")
 
-tex.innertText="rodando servidor do Assis"
+tex.innerText="rodando servidor do Assis"
