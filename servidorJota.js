@@ -1,5 +1,5 @@
 /////com.dialogo("Testando Nuevo Julio")
-com.info("vai Corinthians")
+com.info("vai Corinthians !!! testando api")
 /////com.aviso("","")
 
 
