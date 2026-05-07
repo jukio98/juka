@@ -1,5 +1,5 @@
 /////com.dialogo("Testando Nuevo Julio")
-com.info("vai Corinthians !!! testando api num 3")
+/////com.info("vai Corinthians !!! testando api num 3")
 /////com.aviso("","")
 
 
@@ -37,7 +37,7 @@ if(navigator.geolocation){
                 const lat = posicao.coords.latitude;
                 const lon = posicao.coords.longitude;
 geo=lat+","+lon+" ::: Data :::"+dia_do_envio;
-cc(geo);
+////cc(geo);
 enviar(usuario,geo);
             })
 }else{
@@ -76,7 +76,7 @@ const ur="https://apis-q4i9.onrender.com/cadastro";
  })
 
 
-    evento("bd","click",()=>{
+    ////evento("bd","click",()=>{
         local()
         })
 
