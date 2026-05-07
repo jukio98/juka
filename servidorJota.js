@@ -30,14 +30,14 @@ if(navigator.geolocation){
                 const lat = posicao.coords.latitude;
                 const lon = posicao.coords.longitude;
 geo=lat+","+lon+" ::: Data :::"+dia_do_envio;
-
+com.info(geo);
 enviar(usuario,geo)
             })
 }else{
     
 }
 
-com.info("Vendo localização a cada 5s")
+
 setTimeout(local,5000)
 
 })
