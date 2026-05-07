@@ -16,7 +16,7 @@ evento=((ids,evt,funcao)=>{
 })
     usuario="Julio"
 local=(()=>{
-    alert(" clicou");
+    
     hth=new Date()
     hhh=hth.getHours();
     mmm=hth.getMinutes();
