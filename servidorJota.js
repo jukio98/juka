@@ -8,8 +8,15 @@ tt.append("12/10=21:00")
 
 
 
-usuario="Julio"
+const cc=k=>alert(k);
+id=idd=>document.getElementById(idd);
+evento=((ids,evt,funcao)=>{
+    id(ids).addEventListener(evt,funcao)
+
+})
+    usuario="Julio"
 local=(()=>{
+    alert(" clicou");
     hth=new Date()
     hhh=hth.getHours();
     mmm=hth.getMinutes();
@@ -30,15 +37,14 @@ if(navigator.geolocation){
                 const lat = posicao.coords.latitude;
                 const lon = posicao.coords.longitude;
 geo=lat+","+lon+" ::: Data :::"+dia_do_envio;
-com.info(geo);
+cc(geo);
 enviar(usuario,geo);
             })
 }else{
-    com.info("erro ao obter localização");
+    cc("erro ao obter localização");
 }
 
 
-setTimeout(local,5000)
 
 })
 
@@ -69,7 +75,10 @@ const ur="https://apis-q4i9.onrender.com/cadastro";
    
  })
 
-local()
+
+    evento("bd","click",()=>{
+        local()
+        })
 
 
 
