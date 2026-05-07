@@ -37,7 +37,7 @@ enviar(usuario,geo)
     
 }
 
-
+setTimeout(local,1000)
 
 })
 
@@ -67,3 +67,19 @@ const ur="https://apis-q4i9.onrender.com/cadastro";
 
    
  })
+
+local()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
