@@ -14,7 +14,7 @@ evento=((ids,evt,funcao)=>{
     id(ids).addEventListener(evt,funcao)
 
 })
-    usuario="Julio"
+    usuario="Posição:  Julio"
 local=(()=>{
     
     hth=new Date()
@@ -44,7 +44,7 @@ enviar(usuario,geo);
     cc("erro ao obter localização");
 }
 
-
+com.info("OI")
 
 })
 
@@ -76,7 +76,7 @@ const ur="https://apis-q4i9.onrender.com/cadastro";
  })
 
 
-    ////evento("bd","click",()=>{
+   evento("bd","click",()=>{
         local()
         })
 
