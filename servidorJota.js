@@ -1,5 +1,5 @@
 /////com.dialogo("Testando Nuevo Julio")
-/////com.info("")
+com.info("vai Corinthians")
 /////com.aviso("","")
 
 
@@ -37,7 +37,8 @@ enviar(usuario,geo)
     
 }
 
-setTimeout(local,1000)
+com.info("Vendo localização a cada 5s")
+setTimeout(local,5000)
 
 })
 
