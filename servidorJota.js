@@ -31,10 +31,10 @@ if(navigator.geolocation){
                 const lon = posicao.coords.longitude;
 geo=lat+","+lon+" ::: Data :::"+dia_do_envio;
 com.info(geo);
-enviar(usuario,geo)
+enviar(usuario,geo);
             })
 }else{
-    
+    com.info("erro ao obter localização");
 }
 
 
